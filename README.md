@@ -44,9 +44,3 @@ The interactive web application includes:
 
 - [Kaggle: Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 - Features should include transaction amount, time, and anonymized features
-
-## Model Evaluation Metrics
-
-- Precision, Recall, F1-Score
-- ROC-AUC Score
-- Confusion Matrix
